@@ -1,4 +1,4 @@
 # h-zi
 hazi feladat
 
-te mit nézel te #STAlKER
+te mit nézel te # **STAlKER**
